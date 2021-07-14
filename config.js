@@ -13,3 +13,4 @@ const CONFIG = {
     messDesc: 'Tonight. 8pm or 9pm? Ok, 8:30 pm, deal?',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/anhthu.leho/' 
+    }
